@@ -1,6 +1,6 @@
 # WorkoutLang
 
-A domain-specific language (DSL) for designing, structuring, and documenting resistance-training and cardio workout programs. Written in C as part of the CSE 341 — Concepts of Programming Languages course at Gebze Technical University.
+A domain-specific language (DSL) for designing, structuring, and documenting resistance-training and cardio workout programs. Written in C as part of the CSE 341 — Concepts of Programming Languages course.
 
 ---
 
@@ -234,7 +234,5 @@ Examples:
 | Item | Detail |
 |---|---|
 | Course | CSE 341 — Concepts of Programming Languages |
-| Institution | Gebze Technical University |
 | Term | Spring 2026 |
-| Student | 210104004053 |
 | Reference | Robert W. Sebesta, *Concepts of Programming Languages*, 12th ed. |
