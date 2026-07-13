@@ -235,7 +235,5 @@ Tüm hatalar şu biçimi kullanır:
 | | |
 |---|---|
 | Ders | CSE 341 — Programlama Dilleri Kavramları |
-| Kurum | Gebze Teknik Üniversitesi |
 | Dönem | Bahar 2026 |
-| Öğrenci No | 210104004053 |
 | Kaynak | Robert W. Sebesta, *Concepts of Programming Languages*, 12. baskı |
