@@ -1,6 +1,6 @@
 # WorkoutLang
 
-Antrenman programlarını tasarlamak, yapılandırmak ve belgelemek için geliştirilmiş bir alan-özgü dil (DSL). C dilinde yazılmıştır; Gebze Teknik Üniversitesi, CSE 341 — Programlama Dilleri Kavramları dersi kapsamında geliştirilmiştir.
+Antrenman programlarını tasarlamak, yapılandırmak ve belgelemek için geliştirilmiş bir alan-özgü dil (DSL). C dilinde yazılmıştır; CSE 341 — Programlama Dilleri Kavramları dersi kapsamında geliştirilmiştir.
 
 ---
 
